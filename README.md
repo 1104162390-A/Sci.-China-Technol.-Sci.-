@@ -27,7 +27,7 @@ modular soft electronics, CAN bus communication, motion sensing, human activity 
 ## Video Demonstration
 <!-- Replace with your actual video file path/URL -->
 ### Platform Application Demo
-[Video: LEGO-inspired modular soft electronics platform]([https://github.com/1104162390-A/Sci.-China-Technol.-Sci.-/blob/main/Sci.%20China%20Technol.%20Sci.%203.mp4])
+[Video: LEGO-inspired modular soft electronics platform](https://github.com/1104162390-A/Sci.-China-Technol.-Sci.-/blob/main/Sci.%20China%20Technol.%20Sci.%203.mp4)
 
 ## Status
 - Submission Status: Revised and Resubmitted
